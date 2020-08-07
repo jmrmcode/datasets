@@ -1,4 +1,4 @@
-"Occurrence","AnnualRainfall","RainfallSeasonality","TempSeasonality","MaxTemp","Isothermality","Watering","PlantMaterialOrigin","Area","slope"
+"Occurrence","AnnualRainfall","RainfallSeasonality","TempSeasonality","MaxTemp","Isothermality","Watering","PlantMaterialOrigin","Area","Slope"
 0,-0.256059475,-0.056270686,0.866242705,1.425048038,-0.793809048,"Irrigated","Vivero",0.024649164,-0.582271369402088
 0,-0.464133324,-0.107861411,0.865377986,1.685683457,-0.793809048,"Irrigated","Vivero",0.130969244,-1.27257296047488
 0,-0.336350157,-0.108951214,0.856590255,1.514119275,-0.793809048,"Irrigated","Vivero",3.137193874,-1.10239683332915
